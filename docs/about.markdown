@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+David Savage is an ecologist, technologist, and conservationist passionate about the use of technology to track ecosystem health and function, understand the impacts of human activity on the world, and empower conservation and sustainability projects with effective monitoring.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+He did undergraduate studies at the University of California, Santa Cruz, graduating with a degree in Ecology and Evolutionary Biology.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+He then worked in monitoring at the consulting company Conservation Metrics, Inc. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+He is currently pursing Doctoral studies at Purdue University's Center for Global Soundscapes

@@ -30,7 +30,7 @@ twitter_username: david_t_savage
 github_username:  dtsavage
 
 # Build settings
-remote theme: mmistakes/minimal-mistakes-jekyll
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 

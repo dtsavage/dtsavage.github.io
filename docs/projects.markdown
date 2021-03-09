@@ -3,7 +3,7 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
-![](https://github.com/dtsavage/dtsavage.github.io/raw/master/Images/IMG_20200401_161402136_HDR.jpg width=600)
+![](https://github.com/dtsavage/dtsavage.github.io/raw/master/Images/IMG_20200401_161402136_HDR.jpg width="600")
 
 # Current Projects David is Working On
 

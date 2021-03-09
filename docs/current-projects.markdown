@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Current Projects
-permalink: /current-projects/
+layout: default
+title: Projects
+permalink: /projects/
 ---
 
 # Current Projects David is Working On

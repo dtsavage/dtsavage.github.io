@@ -21,7 +21,7 @@
 title: David Savage Personal Website
 email: davidtsavage@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Personal Website for David Savage
+  Personal Website for David Savage
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dtsavage.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: david_t_savage

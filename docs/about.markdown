@@ -8,6 +8,6 @@ David Savage is an ecologist, technologist, and conservationist passionate about
 
 He did undergraduate studies at the University of California, Santa Cruz, graduating with a degree in Ecology and Evolutionary Biology.
 
-He then worked in monitoring at the consulting company Conservation Metrics, Inc. 
+He then worked for three years in monitoring at the consulting company [Conservation Metrics, Inc.](conservationmetrics.com)
 
-He is currently pursing Doctoral studies at Purdue University's Center for Global Soundscapes
+He is currently pursing Doctoral studies at Purdue University's [Center for Global Soundscapes](https://centerforglobalsoundscapes.org/)

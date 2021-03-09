@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+![](https://github.com/dtsavage/dtsavage.github.io/raw/master/Images/paramo_selfie.jpg)
 David Savage is an ecologist, technologist, and conservationist passionate about the use of technology to track ecosystem health and function, understand the impacts of human activity on the world, and empower conservation and sustainability projects with effective monitoring.
 
 He did undergraduate studies at the University of California, Santa Cruz, graduating with a degree in Ecology and Evolutionary Biology.

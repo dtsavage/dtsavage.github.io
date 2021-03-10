@@ -19,8 +19,10 @@ permalink: /projects/
 
 ## With the Center for Global Soundscapes
 
-* Silent Cities Project data collection on acoustic impacts of early-mid 2020 Coronavirus lockdown impacts on urban soundscapes
-* Development of training materials for acoustics based educational course
+* [Silent Cities Project](https://osf.io/h285u/) data collection on acoustic impacts of early-mid 2020 Coronavirus lockdown impacts on urban soundscapes
+* Development of training materials for acoustics based science learning course [(Your Ecosystem Listening Labs / YELLs)](https://edustore.purdue.edu/item.asp?Item_Number=FNR-607-W)
+* Development of online sound-based science learning tool [iListen](http://ilisten.org)
+* Development of [Community Soundscape Planning Guide](https://edustore.purdue.edu/item.asp?Item_Number=FNR-603-W)
 * Development of Acoustic Survey Design guide
 * Co-leading Soundscapes/Ecoacoustics conference Bogota 2019
 * Design and construction of Purdue 150th Anniversary Borneo soundscapes exhibit

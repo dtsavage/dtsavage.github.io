@@ -19,11 +19,12 @@ permalink: /projects/
 
 ## With the Center for Global Soundscapes
 
-* Silent Cities Project data collection
+* Silent Cities Project data collection on acoustic impacts of early-mid 2020 Coronavirus lockdown impacts on urban soundscapes
 * Development of training materials for acoustics based educational course
 * Development of Acoustic Survey Design guide
 * Co-leading Soundscapes/Ecoacoustics conference Bogota 2019
 * Design and construction of Purdue 150th Anniversary Borneo soundscapes exhibit
+* Collection of local Coronavirus lockdown [impacts on air quality](https://purr.purdue.edu/publications/3632/1)
 
 ## With Conservation Metrics Inc
 

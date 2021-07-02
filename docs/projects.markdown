@@ -15,6 +15,10 @@ permalink: /projects/
 
 * Training new students in the Center in analysis of acoustic data, R programming, and scientific thinking
 
+* Starting data collection for a new project evaluating the influences of growing practices on soundscapes in vineyards
+
+* Application of neural networks to forecast land-use change in the Midwestern United States
+
 # Past Projects
 
 ## With the Center for Global Soundscapes

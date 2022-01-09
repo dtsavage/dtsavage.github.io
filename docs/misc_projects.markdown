@@ -6,6 +6,8 @@ permalink: /misc_projects/
 
 David has been involved in a number of miscellaneous projects, some of which are related to his ecological work, and some to his other interests. These include:
 
+* Work on a project to monitor the acoustic impacts of the early lockdowns of COVID-19, detailed in a [Purdue FNR News Release](https://ag.purdue.edu/fnr/Pages/GS_COVID19.aspx)
+
 * Contributions to the [Fieldwork Lessons Learned](https://www.fieldkit.org/blog/fieldwork-lessons-learned-part-three/) blog series from FieldKit
 
 * An [essay on dealing with sensor failures](https://www.wildlabs.net/resources/articles/technical-difficulties-what%E2%80%99s-worst-can-happen) in the wild published by WildLabs

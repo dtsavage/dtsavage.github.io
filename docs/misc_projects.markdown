@@ -15,3 +15,5 @@ David has been involved in a number of miscellaneous projects, some of which are
 * A podcast episode detailing some of his historical basketball research, presented by the Overstated NBA Show
      * [Apple Podcasts Link](https://podcasts.apple.com/us/podcast/the-overstated-nba-show/id1511105078?i=1000539694282&fbclid=IwAR1Z8gXXeRl44PdAap2xyHHaOFIfYwItRn6jLvkT7-9ovNjKnWYhlHyv1nI)
      * [Spotify Link](https://open.spotify.com/episode/7zQxZ7ufcUdGSYdRVwEnmd?si=x4a5WcUbSWS2veg7TgXtKQ&fbclid=IwAR0eEWtbSP28OhxEXEO9EqOp481nMyaMvYzfJdrRjIyb3jOKUH_yk6klH7I&nd=1)
+
+* An [Article](https://hoop-social.com/the-warriors-are-the-tech-industry-of-basketball/) comparing the Golden State Warriors to the tech industry

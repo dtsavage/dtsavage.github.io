@@ -11,6 +11,8 @@ permalink: /projects/
 
 * Developing a framework for applying non-market valuation techniques to ecological data and ecological monitoring
 
+* Evaluating the applicability of file compression ratios as an indicator of recording contents
+
 * Building the Center for Global Soundscapes' next-generation data ingestion and processing toolset, [Chorus4Nature](http://soundscape01.science.purdue.edu/)
 
 * Training new students in the Center in analysis of acoustic data, R programming, and scientific thinking
@@ -22,7 +24,7 @@ permalink: /projects/
 # Past Projects
 
 ## With the Center for Global Soundscapes
-* Development of methodology for unsupervised landscape classification, intended to develop categories to guide acoustic sensor deployment as part of a project to integrate remote-sensed data from the International Space Station with ground-based soundscape measurements
+* Development of methodology for [unsupervised landscape classification](https://www.researchgate.net/publication/361944458_Unsupervised_Clustering_of_Landscape_Classes_for_Acoustic_Sensor_Deployment_Planning), intended to develop categories to guide acoustic sensor deployment as part of a project to integrate remote-sensed data from the International Space Station with ground-based soundscape measurements
 * [Silent Cities Project](https://osf.io/h285u/) data collection on acoustic impacts of early-mid 2020 Coronavirus lockdown impacts on urban soundscapes
 * Development of training materials for acoustics based science learning course [(Your Ecosystem Listening Labs / YELLs)](https://edustore.purdue.edu/item.asp?Item_Number=FNR-607-W)
 * Development of online sound-based science learning tool [iListen](http://ilisten.org)

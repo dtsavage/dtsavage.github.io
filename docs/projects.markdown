@@ -22,7 +22,7 @@ permalink: /projects/
 # Past Projects
 
 ## With the Center for Global Soundscapes
-
+* Development of methodology for unsupervised landscape classification, intended to develop categories to guide acoustic sensor deployment as part of a project to integrate remote-sensed data from the International Space Station with ground-based soundscape measurements
 * [Silent Cities Project](https://osf.io/h285u/) data collection on acoustic impacts of early-mid 2020 Coronavirus lockdown impacts on urban soundscapes
 * Development of training materials for acoustics based science learning course [(Your Ecosystem Listening Labs / YELLs)](https://edustore.purdue.edu/item.asp?Item_Number=FNR-607-W)
 * Development of online sound-based science learning tool [iListen](http://ilisten.org)

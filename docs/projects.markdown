@@ -29,7 +29,7 @@ permalink: /projects/
 * Development of training materials for acoustics based science learning course [(Your Ecosystem Listening Labs / YELLs)](https://edustore.purdue.edu/item.asp?Item_Number=FNR-607-W)
 * Development of online sound-based science learning tool [iListen](http://ilisten.org)
 * Development of [Community Soundscape Planning Guide](https://edustore.purdue.edu/item.asp?Item_Number=FNR-603-W)
-* Development of [Acoustic Survey Design guide](/docs/sound survey design (1).pdf)
+* Development of [Acoustic Survey Design guide](http://dtsavage.github.io/docs/acoustic_survey_design.pdf)
 * Co-leading Soundscapes/Ecoacoustics conference Bogota 2019
 * Design and construction of Purdue 150th Anniversary Borneo soundscapes exhibit
 * Collection of local Coronavirus lockdown [impacts on air quality](https://purr.purdue.edu/publications/3632/1)

@@ -13,3 +13,5 @@ He did undergraduate studies at the University of California, Santa Cruz, gradua
 He then worked for three years in monitoring at the consulting company [Conservation Metrics, Inc.](conservationmetrics.com)
 
 He is currently pursing Doctoral studies at Purdue University's [Center for Global Soundscapes](https://centerforglobalsoundscapes.org/)
+
+Following completion of his studies, David is beginning a US Department of Energy sponsored fellowship at the Indiana Utility Regulatory Commission
